@@ -29,4 +29,16 @@
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rahulgangwar12/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Two Pointers
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Rahulgangwar12/leetcode/tree/master/2128-reverse-prefix-of-word) |
+## String
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Rahulgangwar12/leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Rahulgangwar12/leetcode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
