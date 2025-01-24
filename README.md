@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Rahulgangwar12/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Rahulgangwar12/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,6 +19,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Rahulgangwar12/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Array
 |  |
 | ------- |
@@ -41,4 +44,8 @@
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/Rahulgangwar12/leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Rahulgangwar12/leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
