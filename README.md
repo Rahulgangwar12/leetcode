@@ -6,12 +6,14 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Rahulgangwar12/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Rahulgangwar12/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -22,6 +24,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Rahulgangwar12/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Array
