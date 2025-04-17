@@ -76,4 +76,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rahulgangwar12/leetcode/tree/master/0036-valid-sudoku) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/Rahulgangwar12/leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
