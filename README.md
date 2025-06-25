@@ -32,6 +32,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rahulgangwar12/leetcode/tree/master/0036-valid-sudoku) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahulgangwar12/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulgangwar12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/Rahulgangwar12/leetcode/tree/master/0414-third-maximum-number) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rahulgangwar12/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
@@ -81,4 +82,8 @@
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rahulgangwar12/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Rahulgangwar12/leetcode/tree/master/1827-invalid-tweets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulgangwar12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
