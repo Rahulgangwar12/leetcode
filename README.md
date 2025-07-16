@@ -87,4 +87,5 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulgangwar12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0576-out-of-boundary-paths](https://github.com/Rahulgangwar12/leetcode/tree/master/0576-out-of-boundary-paths) |
 <!---LeetCode Topics End-->
